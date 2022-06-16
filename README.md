@@ -1,2 +1,2 @@
-# muscar.auto
+# muscarauto
 Telemetry car
